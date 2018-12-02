@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clone Icon Pack</string>
+    <string name="theme_title">League of Legends Icon Pack</string>
+    <string name="developer_name">Hanpro</string>
+    <string name="developer_link">http://www.facebook.com/dinhhan97</string>
+    <string name="theme_description">League of Legends theme.</string>
+    <string name="theme_feature">feature</string>
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+</resources>
