@@ -43,4 +43,7 @@
         android:layout_height="wrap_content"
         android:text="Set launcher now"/>
 
+
+
+
 </LinearLayout>
